@@ -1,4 +1,6 @@
 # NEOVR 🌐🎮
+<img width="1887" height="872" alt="image" src="https://github.com/user-attachments/assets/6665ffee-cc44-4adc-9b2b-4e5336cc6ca2" />
+
 
 **NEOVR** is a next-generation virtual reality platform that empowers users to explore, build, and connect through immersive VR and AR experiences.  
 This responsive landing page showcases NEOVR’s vision, services, and community in a modern, accessible format.
