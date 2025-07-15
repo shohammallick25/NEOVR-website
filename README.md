@@ -60,10 +60,10 @@ git clone https://github.com/your-username/neovr-website.git
 cd neovr-website
 # Open index.html in your browser
 
-📬 Contributing
+## 📬 Contributing
 Feel free to fork this repo, submit issues or pull requests to improve the project.
 This is an open showcase for front-end web development practice.
 
-📄 License
+## 📄 License
 © 2025 Shoham Mallick. All rights reserved.
 This project is for educational and personal branding purposes only.
